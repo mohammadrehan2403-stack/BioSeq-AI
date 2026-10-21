@@ -157,7 +157,4 @@ with gr.Blocks(title="BioSeq AI") as demo:
     )
 
 if **name** == "**main**":
-import os
-port = int(os.environ.get("PORT", 10000))
-demo.launch(server_name="0.0.0.0", server_port=port)
-
+    demo.launch()
