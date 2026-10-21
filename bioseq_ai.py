@@ -156,5 +156,8 @@ with gr.Blocks(title="BioSeq AI") as demo:
         "Do not use for medical diagnosis or clinical decisions."
     )
 
-if __name__ == "__main__":
-    demo.launch()
+if **name** == "**main**":
+import os
+port = int(os.environ.get("PORT", 10000))
+demo.launch(server_name="0.0.0.0", server_port=port)
+
