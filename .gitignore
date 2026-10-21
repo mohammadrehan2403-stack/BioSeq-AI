@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+promoter_dataset.zip
+promoter_data/
+.ipynb_checkpoints/
+.DS_Store
