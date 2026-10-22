@@ -78,3 +78,38 @@ BioSeq-AI/
 ## License
 
 Educational project. Check the dataset repository's terms and attribution requirements before redistribution.
+## 🧬 BioSeq AI — Advanced Bioinformatics Dashboard
+
+An interactive DNA sequence analysis and machine-learning project built using Python and Gradio.
+
+### Live Demo
+
+[Open BioSeq AI](https://bioseq-ai-final-demo.onrender.com/)
+
+### Source Code
+
+[View the GitHub Repository](https://github.com/mohammadrehan2403-stack/BioSeq-AI)
+
+### Key Features
+
+* DNA sequence analysis and nucleotide composition
+* Reverse complement generation
+* Protein translation and six-frame translation
+* Codon exploration
+* DNA sequence alignment and mutation comparison
+* Open Reading Frame (ORF) detection
+* DNA motif and K-mer analysis
+* GC-content sliding-window visualization
+* Protein sequence analysis
+* AI-based promoter classification
+* NCBI BLAST search
+* FASTA batch analysis
+* Downloadable JSON reports
+
+### Technology Stack
+
+Python, Gradio, Biopython, Pandas, Matplotlib and Scikit-learn.
+
+### Disclaimer
+
+This is an educational bioinformatics project. Its outputs are not medical diagnoses or validated clinical conclusions.
