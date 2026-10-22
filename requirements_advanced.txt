@@ -1,0 +1,5 @@
+gradio>=5.0,<6.0
+pandas>=2.0
+matplotlib>=3.7
+biopython>=1.83
+scikit-learn>=1.3
